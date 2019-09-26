@@ -33,9 +33,9 @@ My friend Tim also warned me about the occasional traffic stops and police shake
 
 Well, I came prepared. For other reasons, I had already obtained an international driving permit from AAA and I had my drivers license with a prominent M for motorcycle. So when my first checkpoint came on the ring road around the Old City, I was ready for a quick and easy resolution to the matter. 
 
-    _Officer_: Driver's license?
+    __Officer__: Driver's license?
 
-    _Me_: Yes, right here. 
+    __Me__: Yes, right here. 
 
     Oh, but you need an international driving permit to use this in Thailand. You'll have to pay a fine. 
 
@@ -49,7 +49,7 @@ Well, I came prepared. For other reasons, I had already obtained an internationa
 
     Then why did you ask for it? 
 
-    _Silence_. Come over here and pay the fine. Then you can ride for another 3 days - just keep your ticket with you. 
+    __Silence__. Come over here and pay the fine. Then you can ride for another 3 days - just keep your ticket with you. 
 
 So I paid my 500 baht fine and went on my way. I called AAA to ask what went wrong - I brought my class M license to their office specifically to get an international driving permit that would work for riding motorcycles. 
 

@@ -48,7 +48,7 @@ I came close to wiping out only once: I tried to downshift on a turn, but downsh
 
 Pai is a beautiful place. We stayed in a [hut seated on a quiet rice paddy][pkn] and explored the town and [lookout points][yun-lai] around it. The crisp mountain air and singing birds were a welcome reprieve from the heat and scooter noise of downtown Chiang Mai. 
 
-![boon-ko-ku-so-bridge]({{ site.url }}/assets/images/bamboobridge.jpg)
+![boon-ko-ku-so-bridge]({{ site.baseurl }}{{ post.url }}/assets/images/bamboobridge.jpg)
 
 When night fell, we looked for a good party, but being a Sunday night we settled for drinking rum and listening to a jazz band jam out. After two hours of pure unadulterated funk, we said farewell to the guitarist (who looked like a Thai Jimi Hendrix) and walked down the street to the most packaged place on the strip, Yellow Sun Bar, to watch packs of American tourists sing their hearts out to 80s rock classics. 
 

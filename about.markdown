@@ -14,7 +14,7 @@ permalink: /about/
 <div id="mc_embed_signup">
 <form action="https://gmail.us20.list-manage.com/subscribe/post?u=8b426d68b2ef8179fda764df4&amp;id=552ac68b00" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
     <div id="mc_embed_signup_scroll">
-	<h2>Subscribe</h2>
+	<h2>Get new posts</h2>
 <div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
 <div class="mc-field-group">
 	<label for="mce-EMAIL">Email Address  <span class="asterisk">*</span>

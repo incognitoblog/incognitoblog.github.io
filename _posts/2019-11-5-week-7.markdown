@@ -1,0 +1,76 @@
+---
+layout: post
+title:  "Weeks 4, 5, and 6"
+date:   2019-10-28 14:11:11 +0700
+categories: living
+---
+This was a relaxing week for me - getting my ducks in a row before taking off for Japan for a week, saying goodbye to a few new friends, and celebrating savagery on Halloween. 
+
+![halloween](https://raw.githubusercontent.com/initialcondition/initialcondition.github.io/master/_site/assets/images/halloween.jpg)
+
+Cafe Racin'
+======
+Last Saturday, I felt the need for a bit of alone time and a nice ride on my GPX Legend outside of the city. The route I chose took me past Doi Suthep, the mountain and temple to the east of Chiang Mai, and on to a nice 3km hike to Doi Pui peak and to a few vistas along the mountain roads. I'm at the point with this bike where twisting the throttle all the way is no longer scary (or very exciting). However, it's a perfect city bike - forgiving when shifting, quick in the low gears, as nimble as a smaller scooter. And it is _beautiful_ to boot. 
+
+![cafe-racin](https://raw.githubusercontent.com/initialcondition/initialcondition.github.io/master/_site/assets/images/cafe-racin.jpg)
+![espresso-views](https://raw.githubusercontent.com/initialcondition/initialcondition.github.io/master/_site/assets/images/espresso-views.jpg)
+
+Acclimating
+======
+I spent last Sunday night enjoying my first mango sticky rice since I had arrived in Chiang Mai - a long overdue indulgence. I dragged a friend from my coworking space out with me to catch up before she went home for the night, and the conversation quickly turned sexual. She needed a good bang, she said, and spent the weekend looking for it. She asked me how my escapades were going - which is pretty much nowhere. I spend a lot of time thinking about going on dates and hooking up, but my execution is noticeably lacking lately. Honestly, it's uncomfortable - I don't feel natural flirting and going after a good bang, even though I'd love if it happened. 
+
+This story doesn't end with "and then I had an epic 24 hour love fest" (although it may, who knows) - but I did decide to get out of my comfort zone once again and hang out with a girl I met at an apartment front desk (and matched with on Tinder). 
+
+It amazes me how quickly I settled in to life here and the handful of friends I made, and quietly decided it wasn't worth going out of my way to meet new people. I'm glad I became aware of it!
+
+Vagabonding VS Executing
+======
+As I write this, I'm sitting in a cafe overlooking a park in Hong Kong. When I landed here a few hours ago, I immediately went searching for a place to eat - settling on the dim sum joint Tim Ho Wan as a place I knew would be reliably good and in an accessible location. After I ate, I searched my maps for a cafe where I could plug in and write this post, knowing I wanted to get it out today before I go on vacation in Japan for a week. 
+
+As I was walking through Hong Kong between lunch and the cafe, I found my mind jumping between two places - open-minded curiousity about everything around me, and focused determination to find the most efficient path to the cafe so I could bang out this post. 
+
+My mind is jumping between vagabonding (exploring the world around you with curiosity and an open mind) and executing (focusing solely on finishing a task as part of a larger goal). Much of the past 7 weeks of my time here has been spent in execution mode - most likely because I feel like we are in a pivotal moment in political and economic history and I might actually have some tiny influence on it, and that humbles and amazes me. I don't want to miss that opportunity because I was exploring instead of focusing and executing. The cost of seizing that opportunity seems to be in overlooked everyday moments and a lost sense of wonder about the world. I want to get better at switching between these two modes. Today, I'm on vacation - even though I know I want to write this post today, I can give myself some time and headspace to relax and explore. 
+
+A Moment in History
+======
+Since I left the US, I've spent a decent amount of downtime in my guesthouse/apartment just reading and watching videos. One topic that has captured my attention slowly since 2008 and suddenly in the last 6 months is our economy and financial system. Since the 2008 crash, it seems our economy and financial system recovered on paper, but not in reality. I sincerely don't think someone like Trump could have been elected, or events like Brexit would have happened, if the domestic economies for first world countries were truly fixed after the financial crisis of '08. 
+
+Instead of unwinding debts and letting businesses fail, it seems like we staved off the worst parts of the crash while entrenching structural issues in our financial system. This is what I mean by a "pivotal moment in political and economic history" - it seems like traditional political and economic institutions are bursting at the seams. We're voting in increasingly more radical people, aging populations are [outnumbering][age-dependency-ratio-projected] the younger populations they rely on, and cash seems nowhere to be found for the [repo market][repo] (one of the most "riskless" assets / financial bets in the world). Wages have stagnated since 1971 while productivity has steadily climbed ([Figure 3][wages]).
+
+I know I use "it seems" repeatedly here - that's because I don't _know_, and I don't think anyone can credibly say they _know_ what's happening or what will happen. Markets and political systems are complex beasts. This is my sense given the financial news and monetary history I've been delving in to. 
+
+For some good monetary history material, watch [Hidden Secrets of Money][hsom] - it's hokey, but of the things I've fact-checked I haven't found anything incorrect with what he's saying. 
+
+I welcome challenges to this thinking - I just want to better understand what's happening in the world so I can prepare and shaare knowledge with you, and other people I care about!
+
+Making, and Keeping, Friends
+======
+Making friends ins't too hard here, just given the number of nomads passing through the co-working space and the locals looking to meet new people. However, that blessing is also a curse, because it means people are leaving just as much as they're arriving. You may click with someone while they're on a month in Chiang Mai, but their visa runs out and they're on to Korea, or Melbourne, back home, wherever it may be. 
+
+I always wonder, if I feel like I know this person so well but we only spent time together over a week or two, will we really stay in touch? Will I ever see them again? This short, deep connection has happened to me four times already since I arrived in Chiang Mai. Will it become draining to meet new people and open up to them if I know they'll be gone in a week? 
+
+What I want is to find a group that will open up the ugly parts of themselves, so we feel a bond that goes beyond the good times and the jokes. 
+
+Last Sunday, I feel like I had that experience for the first time since I arrived in Chiang Mai. We talked about our relationships with our parents, things we're insecure about, times we felt depressed for years. It was refreshing to hear and share these anecdotes - we weren't pouring them out and breaking down over dinner, but everyone shared bits and pieces. And it felt really good to take that step forward with a group of people, past "we have had dinner together a few times" and towards "I know what makes you tick". 
+
+Now I need to keep in mind these impactful moments in the histories of everyone who spoke that night - which I'm historically pretty shit at doing. 
+
+Viking Routine
+======
+One of my new friends in Chiang Mai (who leaves this Friday, unfortunately), is one of those people who doesn't do anything lightly. Before we met, a mutual friend told me he "didn't drink" - come to find out, he just doesn't drink often - but every time we filled our pints with Singha that night, the whole thing went down after 1 cheers. He said it was third time he drank that year, and his two day hangover was evidence of that. 
+
+So instead of debauchery, for the past year or so he threw himself in to a healthy lifestyle, including _ice baths_. I was too intrigued to pass up this topic of conversation - so I asked him a few questions and learned he does these ice baths about 4 times a week in a tiny roll-up bath thingy. He even has a guy who delivers ice to him in the morning - two party-sized bags for 60 baht total ($2). He spends 5-10 minutes in there at a time, playing "viking music" on a little speaker to stay in the zone. 
+
+Naturally, I had to try it. So on Sunday morning, slightly hungover, I rode over to his place and helped him get 3 bags of ice (nice treat!) in to the tiny bathtub. I put on some screamo music to start a fire within me and plunged right in for a nice 3 minutes and 30 seconds. When I got out, within 10 seconds my body started shaking - no, _vibrating_ - uncontrollably. The only way to make it stop was to move constantly: do squats, swing my arms around, look like an absolute buffoon. 
+
+After the bath, we hit the rooftop to do the [Wim Hof breathing exercise][wimhof] and complete the Viking routine. 
+
+It was a pretty incredible experience - I might need to buy one of these little baths and find an ice delivery guy. 
+
+![bathtime](https://raw.githubusercontent.com/initialcondition/initialcondition.github.io/master/_site/assets/images/bathtime.jpg)
+
+[wimhof]:http://blogs.discovermagazine.com/crux/2017/07/06/wim-hof-breathing-science-of-breath/
+[hsom]:https://www.youtube.com/playlist?list=PLE88E9ICdipidHkTehs1VbFzgwrq1jkUJ
+[age-dependency-ratio-projected]:https://ourworldindata.org/age-structure
+[repo]:https://apps.newyorkfed.org/markets/autorates/tomo-results-display?SHOWMORE=TRUE&startDate=01/01/2000&enddate=01/01/2000
+[wages]:https://research.stlouisfed.org/publications/economic-synopses/2016/08/12/labor-compensation-and-labor-productivity-recent-recoveries-and-the-long-term-trend/
